@@ -1,4 +1,4 @@
 # anime
-ES6 jQuery Bootstrap SASS
+>ES6 >jQuery >Bootstrap >SASS
 # Preview
 ![Logo](./COVER.webp)
