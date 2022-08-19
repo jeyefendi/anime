@@ -1,4 +1,4 @@
 # Anime Fan Page
 ><b>Vanilla JS <br>HTML <br>jQuery <br>Bootstrap <br>SASS</b>
-# Preview
+# (https://jeyefendi.github.io/anime/)
 ![Logo](./COVER.webp)
