@@ -1,4 +1,4 @@
 # anime
-Anime fan-page
+ES6 jQuery Bootstrap SASS
 # Preview
 ![Logo](./COVER.webp)
